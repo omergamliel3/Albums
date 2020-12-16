@@ -45,3 +45,5 @@ android/keystores/debug.keystore
 .flowconfig
 .watchmanconfig
 erl_crash.dump
+
+secrets
